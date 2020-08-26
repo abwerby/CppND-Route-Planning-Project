@@ -1,10 +1,10 @@
 # Route Planning Project
-This project implements a A* route planner running on OpenStreetMap in C++, similar to what is used on professional router planners like Google Maps.
+This project implements a A* route planner running on OpenStreetMap in C++.
 
 <img src="map.png" width="600" height="450" />
 
 
-## Dependencies for Running Locally
+## Dependencies
 * cmake >= 3.11.3
   * All OSes: [click here for installation instructions](https://cmake.org/install/)
 * make >= 4.1 (Linux, Mac), 3.81 (Windows)
